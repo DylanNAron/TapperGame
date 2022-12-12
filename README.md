@@ -1,5 +1,7 @@
 # TapperGame
-Tapper Game recreation in C++ &amp; SFML
+Tapper Game recreation in C++ & SFML
 
 
-!(https://github.com/DylanNAron/TapperGame/blob/main/assets/Background.png)
+![Tapper](https://github.com/DylanNAron/TapperGame/blob/main/assets/Background.png)
+
+
